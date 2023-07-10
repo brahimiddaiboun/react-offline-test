@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoresProvider should be available in context 1`] = `
+<title
+  data-testid="error"
+>
+  error
+</title>
+`;

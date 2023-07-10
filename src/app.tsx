@@ -1,7 +1,19 @@
-import React from 'react';
+import React from "react";
+import { BrowserRouter } from "react-router-dom";
+import Router from "./routes";
+import { StoresProvider } from "./providers";
+import { createStore } from "./stores";
 
-const App = () => <h1>UK Energy Mix</h1>;
+const App = () => {
+  
+  const store = createStore({});
 
-export {
-    App
-}
+  return (
+  <StoresProvider value={store}>
+    <BrowserRouter>
+      <Router />
+    </BrowserRouter>
+  </StoresProvider>
+)};
+
+export { App };

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="213px" height="48px" viewBox="0 0 213 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Logos/kiwi-on-dark</title>
+    <g id="R2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---D---Final" transform="translate(-60.000000, -33.000000)" fill-rule="nonzero">
+            <g id="Kiwi-Power_logo" transform="translate(60.000000, 33.000000)">
+                <polygon id="Path" fill="#9EABB1" points="167.79 12 159.72 29.25 162.87 36 174.09 12"></polygon>
+                <polygon id="Path" fill="#9EABB1" points="135.57 12 129.27 12 140.49 36 143.64 29.25"></polygon>
+                <polygon id="Path" fill="#9EABB1" points="154.83 18.75 151.68 25.5 156.57 36 159.72 29.25"></polygon>
+                <polygon id="Path" fill="#9EABB1" points="151.68 12 145.38 12 148.53 18.75 151.68 12.03"></polygon>
+                <polygon id="Path" fill="#8DA2AA" points="156.57 36 162.87 36 159.72 29.25"></polygon>
+                <polygon id="Path" fill="#9EABB1" points="157.98 12 151.68 12 151.68 12.03 154.83 18.75"></polygon>
+                <polygon id="Path" fill="#9EABB1" points="143.64 29.25 146.79 36 151.68 25.5 148.53 18.75"></polygon>
+                <polygon id="Path" fill="#8DA2AA" points="140.49 36 146.79 36 143.64 29.25"></polygon>
+                <polygon id="Path" fill="#8DA2AA" points="151.68 12.03 148.53 18.75 151.68 25.5 154.83 18.75"></polygon>
+                <path d="M96.6,12 C90.18,12 84.9,17.04 84.6,23.4 L84.6,48 L90.6,45.81 L90.6,24 C90.6,20.7 93.3,18 96.6,18 C99.9,18 102.6,20.7 102.6,24 C102.6,27.3 99.9,30 96.6,30 L93.81,36 L96.6,36 C103.23,36 108.6,30.63 108.6,24 C108.6,17.37 103.23,12 96.6,12 Z" id="Path" fill="#9EABB1"></path>
+                <path d="M206.97,12 C200.55,12 195.3,17.04 195,23.4 L194.97,23.4 L194.97,36 L200.97,36 L200.97,34.38 L200.97,23.4 L201,23.4 C201.3,20.37 203.85,18 206.97,18 L209.37,18 L212.16,12 L206.97,12 Z" id="Path" fill="#9EABB1"></path>
+                <path d="M182.37,12 C175.74,12 170.37,17.37 170.37,24 C170.37,30.63 175.74,36 182.37,36 L183.24,36 L186.03,30 L182.37,30 C179.07,30 176.37,27.3 176.37,24 C176.37,20.7 179.07,18 182.37,18 C184.32,18 186.06,18.96 187.17,20.4 L184.2,20.4 L181.41,26.4 L187.89,26.4 L194.16,26.4 C194.31,25.62 194.4,24.81 194.4,24 C194.37,17.37 188.97,12 182.37,12 Z" id="Path" fill="#9EABB1"></path>
+                <path d="M121.08,12 C114.45,12 109.08,17.37 109.08,24 C109.08,30.63 114.45,36 121.08,36 C127.71,36 133.08,30.63 133.08,24 C133.08,17.37 127.71,12 121.08,12 Z M121.08,30 C117.78,30 115.08,27.3 115.08,24 C115.08,20.7 117.78,18 121.08,18 C124.38,18 127.08,20.7 127.08,24 C127.08,27.3 124.41,30 121.08,30 Z" id="Shape" fill="#9EABB1"></path>
+                <polygon id="Path" fill="#3AD29D" points="31.32 12 25.32 12 25.32 36 31.32 36"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="16.62 12 8.31 20.04 12.42 24 24.84 12"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="6 30.21 8.31 27.96 6 25.74"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="8.31 20.04 6 17.79 6 22.26"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="16.62 36 24.84 36 12.42 24 8.31 27.96"></polygon>
+                <polygon id="Path" fill="#00AC67" points="6 22.26 6 25.74 8.31 27.96 12.42 24 8.31 20.04"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="6 36 6 30.21 0 36"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="6 0 0 0 0 12 6 17.79"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="4.2 24 0 19.95 0 16.35 0 36 0 28.05"></polygon>
+                <polygon id="Path" fill="#00AC67" points="4.2 24 0 28.05 0 36 6 30.21 6 25.74"></polygon>
+                <polygon id="Path" fill="#00AC67" points="4.2 24 6 22.26 6 17.79 0 12 0 16.35 0 19.95"></polygon>
+                <polygon id="Path" fill="#017B40" points="6 25.74 6 22.26 4.2 24"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="65.4 36 76.62 12 70.32 12 62.25 29.25"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="38.1 12 31.8 12 43.02 36 46.17 29.25"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="54.21 12 47.91 12 51.06 18.75 54.21 12.03"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="59.1 36 62.25 29.25 57.36 18.75 54.21 25.5"></polygon>
+                <polygon id="Path" fill="#00AC67" points="65.4 36 62.25 29.25 59.1 36"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="60.51 12 54.21 12 54.21 12.03 57.36 18.75"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="49.32 36 54.21 25.5 51.06 18.75 46.17 29.25"></polygon>
+                <polygon id="Path" fill="#00AC67" points="46.17 29.25 43.02 36 49.32 36"></polygon>
+                <polygon id="Path" fill="#00AC67" points="57.36 18.75 54.21 12.03 51.06 18.75 54.21 25.5"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="83.1 12 77.1 12 77.1 36 83.1 36"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="83.1 3.54 77.1 5.73 77.1 11.67 83.1 9.48"></polygon>
+                <polygon id="Path" fill="#3AD29D" points="31.32 3.54 25.32 5.73 25.32 11.67 31.32 9.48"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
